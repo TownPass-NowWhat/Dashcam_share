@@ -1,0 +1,604 @@
+{
+    "data": [
+      {
+        "monitor_id": "C20240907006",
+        "road_name": "復興南路",
+        "address": "台北市大安區復興南路一段390號",
+        "unit_category": "警察局",
+        "unit": "台北市大安分局",
+        "unit_contact_phone": "02-2709-3300",
+        "unit_email": "daan@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.033018,
+          "longitude": 121.542922
+        },
+        "area": "大安區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907007",
+        "road_name": "和平西路",
+        "address": "台北市萬華區和平西路二段220號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.033469,
+          "longitude": 121.501408
+        },
+        "area": "萬華區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907008",
+        "road_name": "民權東路",
+        "address": "台北市松山區民權東路三段20號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 25.059688,
+          "longitude": 121.555729
+        },
+        "area": "松山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907009",
+        "road_name": "中山北路",
+        "address": "台北市中山區中山北路二段56號",
+        "unit_category": "警察局",
+        "unit": "台北市中山分局",
+        "unit_contact_phone": "02-2562-4567",
+        "unit_email": "zhongshan@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.060333,
+          "longitude": 121.522278
+        },
+        "area": "中山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907010",
+        "road_name": "羅斯福路",
+        "address": "台北市中正區羅斯福路三段85號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.017174,
+          "longitude": 121.532777
+        },
+        "area": "中正區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907011",
+        "road_name": "長春路",
+        "address": "台北市中山區長春路180號",
+        "unit_category": "警察局",
+        "unit": "台北市中山分局",
+        "unit_contact_phone": "02-2562-4567",
+        "unit_email": "zhongshan@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.053105,
+          "longitude": 121.531149
+        },
+        "area": "中山區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907012",
+        "road_name": "景美街",
+        "address": "台北市文山區景美街102號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 24.993941,
+          "longitude": 121.542850
+        },
+        "area": "文山區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907013",
+        "road_name": "興隆路",
+        "address": "台北市文山區興隆路二段30號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 24.991373,
+          "longitude": 121.542006
+        },
+        "area": "文山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907014",
+        "road_name": "松江路",
+        "address": "台北市中山區松江路76號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.052491,
+          "longitude": 121.532842
+        },
+        "area": "中山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907015",
+        "road_name": "南港路",
+        "address": "台北市南港區南港路三段45號",
+        "unit_category": "警察局",
+        "unit": "台北市南港分局",
+        "unit_contact_phone": "02-2653-0123",
+        "unit_email": "nangang@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.055783,
+          "longitude": 121.606472
+        },
+        "area": "南港區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907016",
+        "road_name": "辛亥路",
+        "address": "台北市文山區辛亥路四段120號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 24.991658,
+          "longitude": 121.565273
+        },
+        "area": "文山區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907017",
+        "road_name": "新生北路",
+        "address": "台北市大同區新生北路二段5號",
+        "unit_category": "警察局",
+        "unit": "台北市大同分局",
+        "unit_contact_phone": "02-2597-8655",
+        "unit_email": "datong@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.060562,
+          "longitude": 121.514891
+        },
+        "area": "大同區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907018",
+        "road_name": "中正路",
+        "address": "台北市士林區中正路345號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.093972,
+          "longitude": 121.521214
+        },
+        "area": "士林區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907019",
+        "road_name": "景福街",
+        "address": "台北市北投區景福街16號",
+        "unit_category": "警察局",
+        "unit": "台北市北投分局",
+        "unit_contact_phone": "02-2892-3511",
+        "unit_email": "beitou@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.132423,
+          "longitude": 121.501707
+        },
+        "area": "北投區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907020",
+        "road_name": "南京東路",
+        "address": "台北市松山區南京東路五段55號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 25.051338,
+          "longitude": 121.566188
+        },
+        "area": "松山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907021",
+        "road_name": "民生東路",
+        "address": "台北市松山區民生東路五段31號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.061532,
+          "longitude": 121.573007
+        },
+        "area": "松山區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907022",
+        "road_name": "仁愛路",
+        "address": "台北市大安區仁愛路四段250號",
+        "unit_category": "警察局",
+        "unit": "台北市大安分局",
+        "unit_contact_phone": "02-2709-3300",
+        "unit_email": "daan@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.039062,
+          "longitude": 121.552498
+        },
+        "area": "大安區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907023",
+        "road_name": "基隆路",
+        "address": "台北市信義區基隆路二段300號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.031856,
+          "longitude": 121.563444
+        },
+        "area": "信義區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907024",
+        "road_name": "士林路",
+        "address": "台北市士林區士林路156號",
+        "unit_category": "警察局",
+        "unit": "台北市士林分局",
+        "unit_contact_phone": "02-2882-2456",
+        "unit_email": "shilin@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.092366,
+          "longitude": 121.524475
+        },
+        "area": "士林區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907025",
+        "road_name": "北投路",
+        "address": "台北市北投區北投路一段99號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 25.137922,
+          "longitude": 121.501692
+        },
+        "area": "北投區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907026",
+        "road_name": "東湖路",
+        "address": "台北市內湖區東湖路60號",
+        "unit_category": "警察局",
+        "unit": "台北市內湖分局",
+        "unit_contact_phone": "02-2791-0101",
+        "unit_email": "neihu@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.068563,
+          "longitude": 121.612122
+        },
+        "area": "內湖區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907027",
+        "road_name": "瑞光路",
+        "address": "台北市內湖區瑞光路180號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.078022,
+          "longitude": 121.576645
+        },
+        "area": "內湖區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907028",
+        "road_name": "八德路",
+        "address": "台北市松山區八德路四段212號",
+        "unit_category": "警察局",
+        "unit": "台北市松山分局",
+        "unit_contact_phone": "02-2761-0110",
+        "unit_email": "songshan@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.048793,
+          "longitude": 121.570623
+        },
+        "area": "松山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907029",
+        "road_name": "中正路",
+        "address": "台北市士林區中正路45號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 25.093992,
+          "longitude": 121.521206
+        },
+        "area": "士林區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907030",
+        "road_name": "忠孝東路",
+        "address": "台北市信義區忠孝東路五段66號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.041839,
+          "longitude": 121.555617
+        },
+        "area": "信義區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907031",
+        "road_name": "和平東路",
+        "address": "台北市大安區和平東路三段123號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.025609,
+          "longitude": 121.543023
+        },
+        "area": "大安區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907032",
+        "road_name": "永吉路",
+        "address": "台北市信義區永吉路222號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.046124,
+          "longitude": 121.573292
+        },
+        "area": "信義區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907033",
+        "road_name": "松仁路",
+        "address": "台北市信義區松仁路151號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 25.032982,
+          "longitude": 121.567890
+        },
+        "area": "信義區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907034",
+        "road_name": "復興北路",
+        "address": "台北市松山區復興北路450號",
+        "unit_category": "警察局",
+        "unit": "台北市松山分局",
+        "unit_contact_phone": "02-2761-0110",
+        "unit_email": "songshan@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.058402,
+          "longitude": 121.544450
+        },
+        "area": "松山區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907035",
+        "road_name": "信義路",
+        "address": "台北市信義區信義路五段200號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.033964,
+          "longitude": 121.564538
+        },
+        "area": "信義區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907036",
+        "road_name": "永康街",
+        "address": "台北市大安區永康街48號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.031041,
+          "longitude": 121.529348
+        },
+        "area": "大安區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907037",
+        "road_name": "大同路",
+        "address": "台北市士林區大同路210號",
+        "unit_category": "警察局",
+        "unit": "台北市士林分局",
+        "unit_contact_phone": "02-2882-2456",
+        "unit_email": "shilin@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.091758,
+          "longitude": 121.526014
+        },
+        "area": "士林區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907038",
+        "road_name": "東豐街",
+        "address": "台北市北投區東豐街125號",
+        "unit_category": "警察局",
+        "unit": "台北市北投分局",
+        "unit_contact_phone": "02-2892-3511",
+        "unit_email": "beitou@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.135012,
+          "longitude": 121.515914
+        },
+        "area": "北投區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907039",
+        "road_name": "溫泉路",
+        "address": "台北市北投區溫泉路58號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.137021,
+          "longitude": 121.504590
+        },
+        "area": "北投區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907040",
+        "road_name": "士林路",
+        "address": "台北市士林區士林路390號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.091872,
+          "longitude": 121.526203
+        },
+        "area": "士林區",
+        "road_type": "主幹道"
+      },{
+        "monitor_id": "C20240907001",
+        "road_name": "信義路",
+        "address": "台北市信義區信義路五段100號",
+        "unit_category": "警察局",
+        "unit": "台北市信義分局",
+        "unit_contact_phone": "02-2720-3456",
+        "unit_email": "xinyi@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.033982,
+          "longitude": 121.564538
+        },
+        "area": "信義區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907002",
+        "road_name": "忠孝東路",
+        "address": "台北市大安區忠孝東路四段250號",
+        "unit_category": "交通局",
+        "unit": "台北市交通局",
+        "unit_contact_phone": "02-2759-5555",
+        "unit_email": "traffic@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.041839,
+          "longitude": 121.555617
+        },
+        "area": "大安區",
+        "road_type": "次幹道"
+      },
+      {
+        "monitor_id": "C20240907003",
+        "road_name": "士林路",
+        "address": "台北市士林區士林路150號",
+        "unit_category": "捷運公司",
+        "unit": "台北捷運公司士林站",
+        "unit_contact_phone": "02-2181-2345",
+        "unit_email": "service@metro.taipei",
+        "coordinates": {
+          "latitude": 25.092366,
+          "longitude": 121.524475
+        },
+        "area": "士林區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907004",
+        "road_name": "和平東路",
+        "address": "台北市大安區和平東路三段88號",
+        "unit_category": "市政府",
+        "unit": "台北市市政府",
+        "unit_contact_phone": "02-2720-8889",
+        "unit_email": "contact@taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.025609,
+          "longitude": 121.543023
+        },
+        "area": "大安區",
+        "road_type": "主幹道"
+      },
+      {
+        "monitor_id": "C20240907005",
+        "road_name": "南港路",
+        "address": "台北市南港區南港路二段25號",
+        "unit_category": "警察局",
+        "unit": "台北市南港分局",
+        "unit_contact_phone": "02-2653-0123",
+        "unit_email": "nangang@police.taipei.gov.tw",
+        "coordinates": {
+          "latitude": 25.056939,
+          "longitude": 121.608836
+        },
+        "area": "南港區",
+        "road_type": "次幹道"
+      }
+    ]
+  }
+  

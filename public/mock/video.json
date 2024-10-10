@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "id": "VID20240907001",
+      "summary": { "area": "南港區", "location": "松高路", "date": "2024-09-25", "time": "04:26" },
+      "title": "兩車擦撞無人受傷",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.037632, "longitude": 121.52484 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907002",
+      "summary": { "area": "中山區", "location": "八德路", "date": "2024-09-22", "time": "03:31" },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.086172, "longitude": 121.547685 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907003",
+      "summary": {
+        "area": "文山區",
+        "location": "忠孝東路",
+        "date": "2024-09-24",
+        "time": "17:22"
+      },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.078145, "longitude": 121.598658 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907004",
+      "summary": {
+        "area": "大同區",
+        "location": "林森北路",
+        "date": "2024-09-16",
+        "time": "04:37"
+      },
+      "title": "行人橫穿馬路遭撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.034134, "longitude": 121.542802 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907005",
+      "summary": {
+        "area": "士林區",
+        "location": "南京東路",
+        "date": "2024-09-27",
+        "time": "07:43"
+      },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.03547, "longitude": 121.593358 },
+      "link": "https://i.imgur.com/7aCWrDN.png"
+    },
+    {
+      "id": "VID20240907006",
+      "summary": {
+        "area": "文山區",
+        "location": "南京東路",
+        "date": "2024-09-17",
+        "time": "11:28"
+      },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.054258, "longitude": 121.555055 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907007",
+      "summary": {
+        "area": "文山區",
+        "location": "敦化南路",
+        "date": "2024-09-23",
+        "time": "11:30"
+      },
+      "title": "車輛失控撞上路燈",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.073968, "longitude": 121.552075 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907008",
+      "summary": {
+        "area": "信義區",
+        "location": "林森北路",
+        "date": "2024-09-03",
+        "time": "11:39"
+      },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.064883, "longitude": 121.503207 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907009",
+      "summary": { "area": "信義區", "location": "中正路", "date": "2024-09-29", "time": "04:21" },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.080483, "longitude": 121.519018 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907010",
+      "summary": { "area": "士林區", "location": "松高路", "date": "2024-09-15", "time": "20:03" },
+      "title": "倒車不慎撞上行人",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.069829, "longitude": 121.569215 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907011",
+      "summary": { "area": "大安區", "location": "八德路", "date": "2024-09-26", "time": "18:25" },
+      "title": "小貨車與行人相撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.019534, "longitude": 121.551416 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907012",
+      "summary": { "area": "信義區", "location": "八德路", "date": "2024-09-06", "time": "15:24" },
+      "title": "兩車輕微擦撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.058234, "longitude": 121.572648 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907013",
+      "summary": {
+        "area": "大安區",
+        "location": "忠孝東路",
+        "date": "2024-09-14",
+        "time": "16:32"
+      },
+      "title": "行人被車撞擊",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.087196, "longitude": 121.513877 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907014",
+      "summary": { "area": "中山區", "location": "辛亥路", "date": "2024-09-14", "time": "19:48" },
+      "title": "機車撞上停車車輛",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.038963, "longitude": 121.564191 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907015",
+      "summary": { "area": "文山區", "location": "中正路", "date": "2024-09-14", "time": "03:08" },
+      "title": "行人橫穿馬路遭撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.022215, "longitude": 121.567439 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907016",
+      "summary": { "area": "士林區", "location": "中正路", "date": "2024-09-18", "time": "11:04" },
+      "title": "兩車擦撞無人受傷",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.032812, "longitude": 121.543365 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907017",
+      "summary": {
+        "area": "內湖區",
+        "location": "敦化南路",
+        "date": "2024-09-14",
+        "time": "00:51"
+      },
+      "title": "機車自摔",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.019808, "longitude": 121.520375 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907018",
+      "summary": { "area": "士林區", "location": "八德路", "date": "2024-09-24", "time": "22:29" },
+      "title": "兩車輕微擦撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.043766, "longitude": 121.505907 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907019",
+      "summary": { "area": "信義區", "location": "中正路", "date": "2024-09-12", "time": "09:46" },
+      "title": "機車撞上停車車輛",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.09335, "longitude": 121.57358 },
+      "link": "https://i.imgur.com/P9vyArL.png"
+    },
+    {
+      "id": "VID20240907020",
+      "summary": {
+        "area": "大同區",
+        "location": "忠孝東路",
+        "date": "2024-09-28",
+        "time": "19:44"
+      },
+      "title": "車輛失控撞上路燈",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.029649, "longitude": 121.575549 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907021",
+      "summary": { "area": "中山區", "location": "辛亥路", "date": "2024-09-12", "time": "23:51" },
+      "title": "車輛失控撞上路燈",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.047709, "longitude": 121.539118 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907022",
+      "summary": {
+        "area": "中山區",
+        "location": "敦化南路",
+        "date": "2024-09-06",
+        "time": "03:18"
+      },
+      "title": "行人被車撞擊",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.017457, "longitude": 121.581582 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907023",
+      "summary": {
+        "area": "中山區",
+        "location": "南京東路",
+        "date": "2024-09-20",
+        "time": "01:41"
+      },
+      "title": "機車撞上停車車輛",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.028807, "longitude": 121.566438 },
+      "link": "https://i.imgur.com/7aCWrDN.png"
+    },
+    {
+      "id": "VID20240907024",
+      "summary": { "area": "士林區", "location": "松高路", "date": "2024-09-28", "time": "09:02" },
+      "title": "行人被車撞擊",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.032459, "longitude": 121.556719 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907025",
+      "summary": {
+        "area": "中山區",
+        "location": "民權東路",
+        "date": "2024-09-01",
+        "time": "22:09"
+      },
+      "title": "小貨車與行人相撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.014674, "longitude": 121.517043 },
+      "link": "https://i.imgur.com/P9vyArL.png"
+    },
+    {
+      "id": "VID20240907026",
+      "summary": { "area": "大同區", "location": "辛亥路", "date": "2024-09-01", "time": "02:03" },
+      "title": "機車自摔",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.030154, "longitude": 121.562081 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907027",
+      "summary": {
+        "area": "內湖區",
+        "location": "忠孝東路",
+        "date": "2024-09-14",
+        "time": "01:41"
+      },
+      "title": "小貨車與行人相撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.091443, "longitude": 121.58574 },
+      "link": "https://i.imgur.com/7aCWrDN.png"
+    },
+    {
+      "id": "VID20240907028",
+      "summary": {
+        "area": "內湖區",
+        "location": "民權東路",
+        "date": "2024-09-09",
+        "time": "10:39"
+      },
+      "title": "行人橫穿馬路遭撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.037407, "longitude": 121.590785 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907029",
+      "summary": { "area": "大同區", "location": "辛亥路", "date": "2024-09-06", "time": "12:48" },
+      "title": "行人橫穿馬路遭撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.010194, "longitude": 121.54547 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907030",
+      "summary": {
+        "area": "松山區",
+        "location": "忠孝東路",
+        "date": "2024-09-26",
+        "time": "21:25"
+      },
+      "title": "機車撞上停車車輛",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.033442, "longitude": 121.510291 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907031",
+      "summary": {
+        "area": "信義區",
+        "location": "忠孝東路",
+        "date": "2024-09-22",
+        "time": "18:53"
+      },
+      "title": "機車與轎車發生碰撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.064061, "longitude": 121.550819 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907032",
+      "summary": {
+        "area": "北投區",
+        "location": "民權東路",
+        "date": "2024-09-17",
+        "time": "20:27"
+      },
+      "title": "小貨車與行人相撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.018898, "longitude": 121.515156 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907033",
+      "summary": { "area": "大安區", "location": "承德路", "date": "2024-09-17", "time": "17:07" },
+      "title": "車輛失控撞上路燈",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.097895, "longitude": 121.565277 },
+      "link": "https://i.imgur.com/7aCWrDN.png"
+    },
+    {
+      "id": "VID20240907034",
+      "summary": {
+        "area": "北投區",
+        "location": "民權東路",
+        "date": "2024-09-11",
+        "time": "22:45"
+      },
+      "title": "兩車輕微擦撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.096715, "longitude": 121.548155 },
+      "link": "https://i.imgur.com/PCaQ7qZ.png"
+    },
+    {
+      "id": "VID20240907035",
+      "summary": { "area": "中山區", "location": "松高路", "date": "2024-09-19", "time": "01:16" },
+      "title": "倒車不慎撞上行人",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.06569, "longitude": 121.519409 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907036",
+      "summary": { "area": "信義區", "location": "八德路", "date": "2024-09-20", "time": "15:02" },
+      "title": "行人橫穿馬路遭撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.097543, "longitude": 121.505669 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907037",
+      "summary": {
+        "area": "文山區",
+        "location": "敦化南路",
+        "date": "2024-09-23",
+        "time": "12:09"
+      },
+      "title": "行人被車撞擊",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.03089, "longitude": 121.573279 },
+      "link": "https://i.imgur.com/nJQt3eP.png"
+    },
+    {
+      "id": "VID20240907038",
+      "summary": { "area": "南港區", "location": "松高路", "date": "2024-09-26", "time": "10:34" },
+      "title": "行人被車撞擊",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.097484, "longitude": 121.550768 },
+      "link": "https://i.imgur.com/7aCWrDN.png"
+    },
+    {
+      "id": "VID20240907039",
+      "summary": {
+        "area": "信義區",
+        "location": "南京東路",
+        "date": "2024-09-21",
+        "time": "06:47"
+      },
+      "title": "行人被車撞擊",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.006013, "longitude": 121.547308 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    },
+    {
+      "id": "VID20240907040",
+      "summary": { "area": "大安區", "location": "八德路", "date": "2024-09-12", "time": "00:31" },
+      "title": "行人橫穿馬路遭撞",
+      "document_type": "影片",
+      "coordinates": { "latitude": 25.041566, "longitude": 121.560152 },
+      "link": "https://i.imgur.com/ARrsOMg.png"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "id": "A20240907001",
+      "summary": {
+        "report_id": "A20240907001",
+        "area": "大安區",
+        "location": "敦化南路",
+        "date": "2024-09-07",
+        "time": "14:30",
+        "accident_type": "A2"
+      },
+      "title": "敦化南路機車與轎車發生碰撞",
+      "description": "機車與轎車發生碰撞，無人受傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.033964,
+        "longitude": 121.549235
+      }
+    },
+    {
+      "id": "A20240907002",
+      "summary": {
+        "report_id": "A20240907002",
+        "area": "信義區",
+        "location": "松仁路",
+        "date": "2024-09-07",
+        "time": "08:45",
+        "accident_type": "A1"
+      },
+      "title": "松仁路行人遭車輛撞擊重傷",
+      "description": "行人遭車輛撞擊，重傷送醫。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.032962,
+        "longitude": 121.567948
+      }
+    },
+    {
+      "id": "A20240907003",
+      "summary": {
+        "report_id": "A20240907003",
+        "area": "中山區",
+        "location": "南京東路",
+        "date": "2024-09-06",
+        "time": "19:20",
+        "accident_type": "A3"
+      },
+      "title": "南京東路兩輛轎車擦撞無人受傷",
+      "description": "兩輛轎車擦撞，無人受傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.052526,
+        "longitude": 121.535708
+      }
+    },
+    {
+      "id": "A20240907004",
+      "summary": {
+        "report_id": "A20240907004",
+        "area": "大同區",
+        "location": "承德路",
+        "date": "2024-09-05",
+        "time": "12:50",
+        "accident_type": "A2"
+      },
+      "title": "承德路車輛失控撞上路燈",
+      "description": "車輛失控撞上路燈，駕駛輕傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.069654,
+        "longitude": 121.514306
+      }
+    },
+    {
+      "id": "A20240907005",
+      "summary": {
+        "report_id": "A20240907005",
+        "area": "士林區",
+        "location": "天母東路",
+        "date": "2024-09-07",
+        "time": "11:10",
+        "accident_type": "A1"
+      },
+      "title": "天母東路摩托車自摔騎士死亡",
+      "description": "摩托車自摔，騎士當場死亡。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.118482,
+        "longitude": 121.526798
+      }
+    },
+    {
+      "id": "A20240907006",
+      "summary": {
+        "report_id": "A20240907006",
+        "area": "內湖區",
+        "location": "民權東路",
+        "date": "2024-09-06",
+        "time": "17:45",
+        "accident_type": "A3"
+      },
+      "title": "民權東路兩輛車在十字路口輕微碰撞",
+      "description": "兩輛車在十字路口輕微碰撞。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.062625,
+        "longitude": 121.574942
+      }
+    },
+    {
+      "id": "A20240907007",
+      "summary": {
+        "report_id": "A20240907007",
+        "area": "松山區",
+        "location": "八德路",
+        "date": "2024-09-07",
+        "time": "09:30",
+        "accident_type": "A2"
+      },
+      "title": "八德路機車闖紅燈撞上小客車",
+      "description": "機車闖紅燈撞上小客車，輕傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.048002,
+        "longitude": 121.563851
+      }
+    },
+    {
+      "id": "A20240907008",
+      "summary": {
+        "report_id": "A20240907008",
+        "area": "南港區",
+        "location": "忠孝東路",
+        "date": "2024-09-06",
+        "time": "21:15",
+        "accident_type": "A3"
+      },
+      "title": "忠孝東路兩輛小客車相撞無人受傷",
+      "description": "兩輛小客車相撞，無人受傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.046654,
+        "longitude": 121.614508
+      }
+    },
+    {
+      "id": "A20240907009",
+      "summary": {
+        "report_id": "A20240907009",
+        "area": "文山區",
+        "location": "木柵路",
+        "date": "2024-09-07",
+        "time": "16:00",
+        "accident_type": "A1"
+      },
+      "title": "木柵路行人橫越馬路被撞當場死亡",
+      "description": "行人橫越馬路被車撞擊，當場死亡。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": true,
+      "coordinates": {
+        "latitude": 24.998134,
+        "longitude": 121.558605
+      }
+    },
+    {
+      "id": "A20240907010",
+      "summary": {
+        "report_id": "A20240907010",
+        "area": "北投區",
+        "location": "中央北路",
+        "date": "2024-09-05",
+        "time": "13:20",
+        "accident_type": "A2"
+      },
+      "title": "中央北路轎車與機車碰撞機車騎士重傷",
+      "description": "轎車與機車碰撞，機車騎士重傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.132019,
+        "longitude": 121.503551
+      }
+    },
+    {
+      "id": "A20240907011",
+      "summary": {
+        "report_id": "A20240907011",
+        "area": "大安區",
+        "location": "復興南路",
+        "date": "2024-09-06",
+        "time": "07:55",
+        "accident_type": "A2"
+      },
+      "title": "復興南路小貨車不當轉彎撞上行人",
+      "description": "小貨車不當轉彎，撞上行人。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.041097,
+        "longitude": 121.544272
+      }
+    },
+    {
+      "id": "A20240907012",
+      "summary": {
+        "report_id": "A20240907012",
+        "area": "信義區",
+        "location": "基隆路",
+        "date": "2024-09-07",
+        "time": "10:15",
+        "accident_type": "A3"
+      },
+      "title": "基隆路車輛倒車不慎撞上停車車輛",
+      "description": "車輛倒車不慎，撞上停車車輛。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.034938,
+        "longitude": 121.565428
+      }
+    },
+    {
+      "id": "A20240907013",
+      "summary": {
+        "report_id": "A20240907013",
+        "area": "中山區",
+        "location": "中山北路",
+        "date": "2024-09-06",
+        "time": "22:00",
+        "accident_type": "A1"
+      },
+      "title": "中山北路轎車與行人相撞行人重傷",
+      "description": "轎車與行人相撞，行人重傷。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": true,
+      "coordinates": {
+        "latitude": 25.062449,
+        "longitude": 121.522514
+      }
+    },
+    {
+      "id": "A20240907014",
+      "summary": {
+        "report_id": "A20240907014",
+        "area": "大同區",
+        "location": "赤峰街",
+        "date": "2024-09-07",
+        "time": "18:45",
+        "accident_type": "A2"
+      },
+      "title": "赤峰街機車自摔騎士輕傷送醫",
+      "description": "機車自摔，騎士輕傷送醫。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.055288,
+        "longitude": 121.515737
+      }
+    },
+    {
+      "id": "A20240907015",
+      "summary": {
+        "report_id": "A20240907015",
+        "area": "士林區",
+        "location": "中正路",
+        "date": "2024-09-07",
+        "time": "12:10",
+        "accident_type": "A3"
+      },
+      "title": "中正路兩車輛在狹窄路口相擦",
+      "description": "兩車輛在狹窄路口相擦。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.093992,
+        "longitude": 121.521206
+      }
+    },
+    {
+      "id": "A20240907016",
+      "summary": {
+        "report_id": "A20240907016",
+        "area": "內湖區",
+        "location": "堤頂大道",
+        "date": "2024-09-06",
+        "time": "15:30",
+        "accident_type": "A2"
+      },
+      "title": "堤頂大道機車撞上停車車輛無人受傷",
+      "description": "機車撞上停車車輛，無人受傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.074634,
+        "longitude": 121.575907
+      }
+    },
+    {
+      "id": "A20240907017",
+      "summary": {
+        "report_id": "A20240907017",
+        "area": "松山區",
+        "location": "光復南路",
+        "date": "2024-09-07",
+        "time": "20:10",
+        "accident_type": "A1"
+      },
+      "title": "光復南路行人橫穿馬路被撞重傷",
+      "description": "行人橫穿馬路被撞，重傷。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.046182,
+        "longitude": 121.557475
+      }
+    },
+    {
+      "id": "A20240907018",
+      "summary": {
+        "report_id": "A20240907018",
+        "area": "南港區",
+        "location": "南港路",
+        "date": "2024-09-07",
+        "time": "06:50",
+        "accident_type": "A3"
+      },
+      "title": "南港路輕型機車與腳踏車擦撞",
+      "description": "輕型機車與腳踏車發生擦撞。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.040684,
+        "longitude": 121.615867
+      }
+    },
+    {
+      "id": "A20240907019",
+      "summary": {
+        "report_id": "A20240907019",
+        "area": "文山區",
+        "location": "景美街",
+        "date": "2024-09-06",
+        "time": "17:20",
+        "accident_type": "A2"
+      },
+      "title": "景美街小客車不當變換車道發生碰撞",
+      "description": "小客車不當變換車道發生碰撞。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": true,
+      "coordinates": {
+        "latitude": 24.992842,
+        "longitude": 121.540639
+      }
+    },
+    {
+      "id": "A20240907020",
+      "summary": {
+        "report_id": "A20240907020",
+        "area": "北投區",
+        "location": "石牌路",
+        "date": "2024-09-07",
+        "time": "08:10",
+        "accident_type": "A1"
+      },
+      "title": "石牌路騎士遭轎車撞擊當場死亡",
+      "description": "騎士遭轎車撞擊，當場死亡。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.119052,
+        "longitude": 121.515914
+      }
+    },
+    {
+      "id": "A20240907021",
+      "summary": {
+        "report_id": "A20240907021",
+        "area": "大安區",
+        "location": "信義路",
+        "date": "2024-09-07",
+        "time": "15:00",
+        "accident_type": "A2"
+      },
+      "title": "信義路機車闖紅燈撞擊轎車",
+      "description": "機車闖紅燈撞擊轎車，輕微受傷。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.034562,
+        "longitude": 121.543901
+      }
+    },
+    {
+      "id": "A20240907022",
+      "summary": {
+        "report_id": "A20240907022",
+        "area": "信義區",
+        "location": "光復南路",
+        "date": "2024-09-06",
+        "time": "10:15",
+        "accident_type": "A3"
+      },
+      "title": "光復南路小客車倒車撞上停車車輛",
+      "description": "小客車倒車撞上停車車輛。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.040783,
+        "longitude": 121.565272
+      }
+    },
+    {
+      "id": "A20240907023",
+      "summary": {
+        "report_id": "A20240907023",
+        "area": "中正區",
+        "location": "愛國東路",
+        "date": "2024-09-07",
+        "time": "18:10",
+        "accident_type": "A1"
+      },
+      "title": "愛國東路行人違規穿越道路遭撞傷",
+      "description": "行人違規穿越道路，被車撞傷。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": true,
+      "coordinates": {
+        "latitude": 25.030794,
+        "longitude": 121.527402
+      }
+    },
+    {
+      "id": "A20240907024",
+      "summary": {
+        "report_id": "A20240907024",
+        "area": "南港區",
+        "location": "南港路",
+        "date": "2024-09-06",
+        "time": "16:30",
+        "accident_type": "A3"
+      },
+      "title": "南港路兩輛機車輕微碰撞無人受傷",
+      "description": "兩輛機車發生輕微碰撞，無受傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.046625,
+        "longitude": 121.615138
+      }
+    },
+    {
+      "id": "A20240907025",
+      "summary": {
+        "report_id": "A20240907025",
+        "area": "文山區",
+        "location": "辛亥路",
+        "date": "2024-09-07",
+        "time": "09:50",
+        "accident_type": "A2"
+      },
+      "title": "辛亥路小貨車與機車相撞",
+      "description": "小貨車與機車相撞，機車騎士受傷。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.00058,
+        "longitude": 121.56761
+      }
+    },
+    {
+      "id": "A20240907026",
+      "summary": {
+        "report_id": "A20240907026",
+        "area": "北投區",
+        "location": "裕民路",
+        "date": "2024-09-07",
+        "time": "22:00",
+        "accident_type": "A1"
+      },
+      "title": "裕民路騎車失控撞擊路邊護欄",
+      "description": "騎車失控撞擊路邊護欄，重傷。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": true,
+      "coordinates": {
+        "latitude": 25.135012,
+        "longitude": 121.497841
+      }
+    },
+    {
+      "id": "A20240907027",
+      "summary": {
+        "report_id": "A20240907027",
+        "area": "中山區",
+        "location": "林森北路",
+        "date": "2024-09-07",
+        "time": "07:30",
+        "accident_type": "A3"
+      },
+      "title": "林森北路車輛倒車碰撞機車",
+      "description": "車輛停車未注意，倒車碰撞機車。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.049981,
+        "longitude": 121.523155
+      }
+    },
+    {
+      "id": "A20240907028",
+      "summary": {
+        "report_id": "A20240907028",
+        "area": "松山區",
+        "location": "南京東路",
+        "date": "2024-09-06",
+        "time": "12:20",
+        "accident_type": "A2"
+      },
+      "title": "南京東路計程車與機車發生碰撞",
+      "description": "計程車與機車發生碰撞，輕傷送醫。",
+      "document_type": "協尋",
+      "bluetooth": true,
+      "hot": true,
+      "coordinates": {
+        "latitude": 25.050206,
+        "longitude": 121.564699
+      }
+    },
+    {
+      "id": "A20240907029",
+      "summary": {
+        "report_id": "A20240907029",
+        "area": "大同區",
+        "location": "長安西路",
+        "date": "2024-09-07",
+        "time": "17:45",
+        "accident_type": "A1"
+      },
+      "title": "長安西路行人闖紅燈遭轎車撞擊",
+      "description": "行人闖紅燈遭到轎車撞擊，重傷。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": true,
+      "coordinates": {
+        "latitude": 25.049305,
+        "longitude": 121.515019
+      }
+    },
+    {
+      "id": "A20240907030",
+      "summary": {
+        "report_id": "A20240907030",
+        "area": "內湖區",
+        "location": "堤頂大道",
+        "date": "2024-09-06",
+        "time": "13:30",
+        "accident_type": "A3"
+      },
+      "title": "堤頂大道轎車不當變換車道發生碰撞",
+      "description": "轎車不當變換車道，發生碰撞。",
+      "document_type": "協尋",
+      "bluetooth": false,
+      "hot": false,
+      "coordinates": {
+        "latitude": 25.078678,
+        "longitude": 121.577283
+      }
+    }
+  ]
+}

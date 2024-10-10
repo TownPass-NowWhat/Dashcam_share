@@ -1,0 +1,37 @@
+{
+  "data": {
+    "submit_target": {
+      "url": "https://www.gov.taipei/",
+      "method": "POST",
+      "content_type": "application/json"
+    },
+    "form_format": [
+      {
+        "type": "upload",
+        "upload_max_files": 1,
+        "required": true,
+        "field": "file",
+        "label":"上傳行車紀錄器影片"
+      },
+      {
+        "type": "input",
+        "label": "備註",
+        "required": false,
+        "field":"description",
+        "placeholder": ""
+      },
+      {
+        "type": "checkbox_group",
+        "label": "法律用途",
+        "required": true,
+        "field": "lawUsage",
+        "options": [
+          {
+            "label": "我同意提供個人資料作為法律用途*",
+            "value": "legalPurpose"
+          }
+        ]
+      }
+    ]
+  }
+}

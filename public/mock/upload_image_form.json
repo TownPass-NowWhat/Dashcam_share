@@ -1,0 +1,98 @@
+{
+  "data": {
+    "submit_target": {
+      "url": "https://www.gov.taipei/",
+      "method": "POST",
+      "content_type": "application/json"
+    },
+    "form_format": [
+      {
+        "type": "input",
+        "label": "事故簡述(16字以內)",
+        "required": true,
+        "field":"description",
+        "placeholder": "Ex：OO路轎車與行人擦撞、國道O號轎車翻覆"
+      },
+      {
+        "type": "input",
+        "label": "報案編號",
+        "required": true,
+        "field":"r_number",
+        "placeholder": "Ex：P123456789"
+      },
+      {
+        "type": "select_1",
+        "label": "發生事故縣市",
+        "required": true,
+        "field": "city",
+        "default_option": "請選擇縣市"  
+      },
+      {
+        "type": "select_2",
+        "label": "發生事故鄉鎮市區",
+        "required": true,
+        "field": "county",
+        "default_option": "請選擇鄉鎮市區"  
+      },
+      {
+        "type": "input",
+        "label": "事故地點",
+        "required": true,
+        "field":"place",
+        "placeholder": "Ex:OO路與XX路口、國道O號"
+      },
+            {
+        "type": "select",
+        "label": "交通事故類別",
+        "required": true,
+        "field": "category",
+        "default_option": "請選擇交通事故類別",
+        "options": [
+          {
+            "label": "A1類：人員當場死亡、24小時內死亡",
+            "value": "A1類：人員當場死亡、24小時內死亡"
+          },
+          {
+            "label": "A2類：人員受傷、超過24小時死亡",
+            "value": "A2類：人員受傷、超過24小時死亡"
+          },
+          {
+            "label": "A3類: 僅車輛或財務受損",
+            "value": "A3類: 僅車輛或財務受損"
+          }
+        ]  
+      },
+      {
+        "type": "date_picker",
+        "label": "日期時間",
+        "required": true,
+        "field": "date"
+      },
+      {
+        "type": "textarea",
+        "label": "事故說明",
+        "required": true,
+        "field": "content"
+      },
+      {
+        "type": "upload",
+        "upload_max_files": 1,
+        "required": true,
+        "field": "file",
+        "label":"上傳行車紀錄器影片"
+      },
+      {
+        "type": "checkbox_group",
+        "label": "法律用途",
+        "required": true,
+        "field": "lawUsage",
+        "options": [
+          {
+            "label": "我同意提供個人資料作為法律用途*",
+            "value": "legalPurpose"
+          }
+        ]
+      }
+    ]
+  }
+}
